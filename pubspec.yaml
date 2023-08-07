@@ -16,7 +16,7 @@ executables:
 dependencies:
   # Library dependencies
   crypto: ^3.0.3
-  http: ^1.0.0
+  http: ^0.13.0
   json_annotation: ^4.8.1
   meta: ^1.9.1
   path: ^1.8.3
